@@ -1,0 +1,14 @@
+body {
+    background-color: #88D8EA;
+    color: white;
+    display: flex;
+}
+.cabecalho-imagem{
+
+width: 20%;
+}
+.cabecalho {
+    background-color: #88D8EA;
+    color: white;
+    display: flex;
+}
